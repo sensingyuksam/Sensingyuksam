@@ -1,6 +1,6 @@
 # Sensing Yuksam: website
 
-A community-authored digital archive of Yuksam, West Sikkim. Plain HTML, CSS and JavaScript. No build step, nothing to install.
+A community-authored digital archive of Yuksam, West Sikkim. Plain HTML, CSS and JavaScript. No build step, nothing to install. 
 
 **All the stories live in one file: `data/chapters.json`.** To add a film, a photo or a sound, you only edit that file (and drop in a photo if there is one). You never need to touch the HTML.
 
