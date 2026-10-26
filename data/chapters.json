@@ -1,0 +1,245 @@
+{
+  "site": {
+    "whatsapp_url": "https://wa.me/919113258170",
+    "whatsapp_label": "Send to the team on WhatsApp",
+    "qr_image": "assets/qr-whatsapp.png",
+    "qr_alt": "QR code that opens a WhatsApp chat with the Sensing Yuksam team",
+    "logos": [
+      {
+        "src": "assets/logos/kcc-logo.png",
+        "alt": "Khangchendzonga Conservation Committee (KCC) logo"
+      },
+      {
+        "src": "assets/logos/leiden-logo.png",
+        "alt": "Leiden University logo"
+      }
+    ],
+    "contact_line": "Contact: Abhimanyu Chettri (Leiden University) and Dr. Suren Limbu (KCC). WhatsApp: +91 91132 58170"
+  },
+  "chapters": [
+    {
+      "id": "yak",
+      "number": "Spotlight",
+      "colour": "#3B3A36",
+      "accent": "#E8DFCC",
+      "title_en": "Living with Yaks",
+      "title_ne": "याकसँगको जीवन",
+      "tagline": "Yaks and the people who live and work with them.",
+      "intro": "Yaks and the people who live and work with them: herders, high pastures, trek routes, bells and churpi. Tell us what you know about living with yaks.",
+      "cover_image": "yak-cover.jpg",
+      "cover_alt": "Two black yaks grazing on a green mountain pasture.",
+      "prompts": [
+        "The yak's year: up and down from the pastures",
+        "Yaks on the trek routes",
+        "The sound of yak bells and herders' calls",
+        "Do herders name their yaks?",
+        "What a yak gives, and what it costs to keep one"
+      ],
+      "contributions": [
+        {
+          "type": "video",
+          "title": "Episode 1: Karki Maila",
+          "url": "https://youtu.be/h6KoY-MOKkE",
+          "local_video": "",
+          "alt": "Thumbnail of the film: Episode 1: Karki Maila",
+          "credit_label": "an episode of",
+          "made_by": "Gaun ko Anuhar",
+          "featuring": "Karki Maila"
+        },
+        {
+          "type": "video",
+          "title": "Episode 2: Buddha Singh Limboo",
+          "url": "https://youtu.be/lQc_3uOto34",
+          "local_video": "",
+          "alt": "Thumbnail of the film: Episode 2: Buddha Singh Limboo",
+          "credit_label": "an episode of",
+          "made_by": "Gaun ko Anuhar",
+          "featuring": "Buddha Singh Limboo"
+        },
+        {
+          "type": "video",
+          "title": "Episode 1: Kesh Korne Kancha",
+          "url": "https://youtu.be/D-OCUYLjMxc",
+          "local_video": "",
+          "alt": "Thumbnail of the film: Episode 1: Kesh Korne Kancha",
+          "credit_label": "an episode of",
+          "made_by": "Yuksam Chautari"
+        },
+        {
+          "type": "video",
+          "title": "Episode 1: You’ve Seen Me",
+          "url": "https://youtube.com/shorts/ya2CBFsWGjY",
+          "local_video": "",
+          "alt": "Thumbnail of the film: Episode 1: You’ve Seen Me",
+          "credit_label": "an episode of",
+          "made_by": "Seri"
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "number": "1",
+      "colour": "#C9962B",
+      "title_en": "People Who Make Yuksam",
+      "title_ne": "युक्समलाई बनाउने मान्छेहरू",
+      "tagline": "A Day in the Life: film someone doing their everyday work.",
+      "intro": "Film someone doing their everyday work. It can be you, a neighbour, a shopkeeper, a teacher. Just follow them through their routine.",
+      "prompts": [
+        "Opening a shop in the morning",
+        "Farming, cooking, carrying water",
+        "Teaching, selling, working with tourists",
+        "Just 2–3 minutes following someone through their routine"
+      ],
+      "contributions": [],
+      "cover_image": "cover-people.jpg",
+      "cover_alt": "A group of men, including monks and elders in traditional dress, posing together under a green-roofed shelter."
+    },
+    {
+      "id": "land",
+      "number": "2",
+      "colour": "#5E7A3A",
+      "title_en": "Working the Land",
+      "title_ne": "माटोसँगको काम",
+      "tagline": "How It's Done: show how the work gets done.",
+      "intro": "Process videos. Show how a piece of work is done, step by step, the way you would show someone who has never done it.",
+      "prompts": [
+        "Planting, harvesting, preparing fields",
+        "Using traditional tools",
+        "Seasonal work",
+        "Caring for animals"
+      ],
+      "contributions": [],
+      "cover_image": "cover-land.jpg",
+      "cover_alt": "A man in a blue vest crouches on a terraced hillside field, picking leaves, beside a sign for the cultivation of aromatic plants."
+    },
+    {
+      "id": "stories",
+      "number": "3",
+      "colour": "#A0603A",
+      "title_en": "Stories of Yuksam",
+      "title_ne": "युक्समका कथाहरू",
+      "tagline": "A Place and Its Story: walk to a place and tell its story.",
+      "intro": "Walk to a place and tell its story. Stand right there, and say what you know about it.",
+      "prompts": [
+        "Walk to a rock, tree, spring, path or house",
+        "Stand there and tell the story connected to it",
+        "Show what it looks like now, and what you remember"
+      ],
+      "contributions": [],
+      "cover_image": "cover-stories.jpg",
+      "cover_alt": "Old moss-covered stone shrines beside a path in the forest, with painted figures on the front of one."
+    },
+    {
+      "id": "rituals",
+      "number": "4",
+      "colour": "#B23A3A",
+      "title_en": "Rituals and Practices",
+      "title_ne": "रीतिरिवाज र चलनहरू",
+      "tagline": "Because This Is How It's Always Been Done.",
+      "intro": "The things done because this is how it has always been done. Show them and say why, in your own words.",
+      "prompts": [
+        "Morning rituals and household practices",
+        "Offerings, prayers, seasonal ceremonies",
+        "How you prepare for festivals",
+        "Things done at specific times of year"
+      ],
+      "contributions": [],
+      "cover_image": "cover-rituals.jpg",
+      "cover_alt": "A woman in a blue silk dress makes an offering at the altar of a monastery shrine room while a monk sits at a table."
+    },
+    {
+      "id": "animals",
+      "number": "5",
+      "colour": "#2F6B62",
+      "title_en": "Animals of Yuksam",
+      "title_ne": "युक्समका जनावरहरू",
+      "tagline": "Living With Animals.",
+      "intro": "Film the animals that share your life, and what life with them is like.",
+      "prompts": [
+        "Your family's animals at work or rest",
+        "A herder with their animals",
+        "Wild animals you encounter",
+        "The relationship between a person and an animal"
+      ],
+      "contributions": [],
+      "cover_image": "cover-animals.jpg",
+      "cover_alt": "Two young sheep with black and white faces resting among ferns."
+    },
+    {
+      "id": "women",
+      "number": "6",
+      "colour": "#7A4A6E",
+      "title_en": "Women of Yuksam",
+      "title_ne": "युक्समका महिलाहरू",
+      "tagline": "Women's Work.",
+      "intro": "Women's work, shown by the women who do it, in their own way and their own time.",
+      "prompts": [
+        "Cooking a meal from start to finish",
+        "Making something by hand",
+        "Working in the field",
+        "Managing a household, a business, caring for children",
+        "Teaching someone a skill"
+      ],
+      "contributions": [],
+      "cover_image": "cover-women.jpg",
+      "cover_alt": "Two women seen from behind, standing in front of a golden statue in a temple."
+    },
+    {
+      "id": "tourism",
+      "number": "7",
+      "colour": "#5A6B7A",
+      "title_en": "Yuksam and Tourism",
+      "title_ne": "युक्सम र पर्यटन",
+      "tagline": "Before and After.",
+      "intro": "How tourism has changed things, and what it looks like from here.",
+      "prompts": [
+        "A place now, next to a photo of it 10 years ago, with the story",
+        "A job that exists because of tourists",
+        "The bazaar in tourist season, and at other times",
+        "What tourists don't see, and what they get wrong"
+      ],
+      "contributions": [],
+      "cover_image": "cover-tourism.jpg",
+      "cover_alt": "The words \"All organic welcome\" painted in white on a rusty corrugated tin wall."
+    },
+    {
+      "id": "soundscape",
+      "number": "8",
+      "colour": "#3F5F8A",
+      "title_en": "Soundscape of Yuksam",
+      "title_ne": "युक्समका आवाजहरू",
+      "tagline": "Listen.",
+      "intro": "Record what Yuksam sounds like. Hold still, press record, and let the place speak.",
+      "prompts": [
+        "Rain on the monastery roof",
+        "A forest in the morning",
+        "The market at different times",
+        "A river, a path, a field",
+        "Monsoon, winter and spring sounds"
+      ],
+      "contributions": [],
+      "cover_image": "cover-soundscape.jpg",
+      "cover_alt": "Monks seated in a prayer room playing horns, a drum and bells."
+    },
+    {
+      "id": "my-yuksam",
+      "number": "9",
+      "colour": "#D9792B",
+      "title_en": "My Yuksam",
+      "title_ne": "मेरो युक्सम",
+      "tagline": "Anything That Matters.",
+      "intro": "Anything that matters to you. There is no wrong answer here.",
+      "prompts": [
+        "Something funny",
+        "Something you're worried about losing",
+        "Something you love",
+        "A skill only you know",
+        "A secret place",
+        "A memory"
+      ],
+      "contributions": [],
+      "cover_image": "cover-my-yuksam.jpg",
+      "cover_alt": "A road at dusk lined with tall white prayer flags beside forested mountains, with a few people walking."
+    }
+  ]
+}
